@@ -7,7 +7,7 @@ Interactive GitHub repo triage — clean up issues, PRs, stale branches, and orp
 ## Install
 
 ```bash
-npx skills add lovstudio/skills --skill sgc-gh-tidy
+npx skills add skill-publisher/skills --skill sgc-gh-tidy
 ```
 
 ## Prerequisites
